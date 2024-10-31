@@ -28,7 +28,7 @@ Automated system for classifying resumes into different job categories.
 - Performed text feature extraction
 - View Project
 
-**🛠️ Technologies Used**
+## 🛠️ Technologies Used
 
 - Programming: Python
 - Data Analysis: Pandas, NumPy
@@ -38,7 +38,7 @@ Automated system for classifying resumes into different job categories.
 - Time Series Analysis: Exponential smoothing, StatsModels, Development
 - Tools: Jupyter Notebook
 
-**📊 Skills Demonstrated**
+## 📊 Skills Demonstrated
 
 - Data Preprocessing and Cleaning
 - Exploratory Data Analysis (EDA)
@@ -48,7 +48,7 @@ Automated system for classifying resumes into different job categories.
 - Data Visualization
 - Model Evaluation and Validation
 
-**📫 Connect With Me**
+## 📫 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/sana27
 - Email: sanasanover1234@gmail.com
