@@ -3,7 +3,7 @@
 ## Projects Overview
 Welcome to my Data Science Portfolio! This repository contains my projects in the field of data science, machine learning, and predictive analytics. Through these projects, I demonstrate my skills in data analysis, model development, and problem-solving using various data science techniques.
 
-**## 🚀 Projects**
+## 🚀 Projects
 ## 1. Bankruptcy Prediction Analysis
 A machine learning model to predict company bankruptcy using financial indicators.
 
