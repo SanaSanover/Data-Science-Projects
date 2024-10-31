@@ -30,11 +30,11 @@ Automated system for classifying resumes into different job categories.
 
 Programming: Python
 > Data Analysis: Pandas, NumPy
-Machine Learning: Scikit-learn, TensorFlow/Keras
-Data Visualization: Matplotlib, Seaborn
-Natural Language Processing: NLTK, SpaCy
-Time Series Analysis: Prophet, StatsModels
-Development Tools: Jupyter Notebook
+> Machine Learning: Scikit-learn, TensorFlow/Keras
+> Data Visualization: Matplotlib, Seaborn
+> Natural Language Processing: NLTK, SpaCy
+> Time Series Analysis: Prophet, StatsModels
+> Development Tools: Jupyter Notebook
 
 #📊 Skills Demonstrated
 
