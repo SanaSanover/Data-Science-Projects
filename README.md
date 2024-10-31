@@ -1,35 +1,35 @@
 # Data-Science-Portfolio
 Welcome to my Data Science Portfolio! This repository contains my projects in the field of data science, machine learning, and predictive analytics. Through these projects, I demonstrate my skills in data analysis, model development, and problem-solving using various data science techniques.
 
-#🚀 Projects
-#1. Bankruptcy Prediction Analysis
+**🚀 Projects**
+**1. Bankruptcy Prediction Analysis**
 A machine learning model to predict company bankruptcy using financial indicators.
 
-Implemented classification algorithms to predict bankruptcy risk
-Performed feature selection and engineering on financial metrics
-Conducted model evaluation and validation
-View Project
+> Implemented classification algorithms to predict bankruptcy risk
+> Performed feature selection and engineering on financial metrics
+> Conducted model evaluation and validation
+> View Project
 
-#2. Reliance Stock Price Prediction
+**2. Reliance Stock Price Prediction**
 Time series forecasting model to predict Reliance stock prices for the next 30 days.
 
-Developed time series analysis using historical stock data
-Applied advanced forecasting techniques
-Created interactive visualizations of predictions
-View Project
+> Developed time series analysis using historical stock data
+> Applied advanced forecasting techniques
+> Created interactive visualizations of predictions
+> View Project
 
-#3. Resume Classification Analysis
+**3. Resume Classification Analysis**
 Automated system for classifying resumes into different job categories.
 
-Built NLP pipeline for text processing
-Implemented document classification algorithms
-Performed text feature extraction
-View Project
+> Built NLP pipeline for text processing
+> Implemented document classification algorithms
+> Performed text feature extraction
+> View Project
 
-#🛠️ Technologies Used
+**🛠️ Technologies Used**
 
 Programming: Python
-Data Analysis: Pandas, NumPy
+> Data Analysis: Pandas, NumPy
 Machine Learning: Scikit-learn, TensorFlow/Keras
 Data Visualization: Matplotlib, Seaborn
 Natural Language Processing: NLTK, SpaCy
