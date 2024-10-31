@@ -3,13 +3,30 @@
 ## Projects Overview
 Welcome to my Data Science Portfolio! This repository contains my projects in the field of data science, machine learning, and predictive analytics. Through these projects, I demonstrate my skills in data analysis, model development, and problem-solving using various data science techniques.
 
-## Setup Instructions
-1. Clone this repository
-2. Install requirements:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Navigate to specific project directories for individual project setup
+**## 🚀 Projects**
+## 1. Bankruptcy Prediction Analysis
+A machine learning model to predict company bankruptcy using financial indicators.
+
+- Implemented classification algorithms to predict bankruptcy risk
+- Performed feature selection and engineering on financial metrics
+- Conducted model evaluation and validation
+- View Project
+
+## 2. Reliance Stock Price Prediction
+Time series forecasting model to predict Reliance stock prices for the next 30 days.
+
+- Developed time series analysis using historical stock data
+- Applied advanced forecasting techniques
+- Created interactive visualizations of predictions
+- View Project
+
+## 3. Resume Classification Analysis
+Automated system for classifying resumes into different job categories.
+
+- Built NLP pipeline for text processing
+- Implemented document classification algorithms
+- Performed text feature extraction
+- View Project
 
 **🛠️ Technologies Used**
 
